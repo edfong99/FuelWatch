@@ -196,4 +196,17 @@ f = open('render.html', 'w')
 f.write(my_html)
 f.close()
 
+"""
+Create a Folder with all code inside with version control
+WK 4 learning GIT
 
+git init - creat git branch, folder is now version control
+
+list in content and you will see .git folder
+OR use git status
+
+git status - ** USEFUL
+
+untracked files --> not version
+"""
+print("HelloWorld")
