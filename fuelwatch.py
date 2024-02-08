@@ -207,6 +207,29 @@ OR use git status
 
 git status - ** USEFUL
 
-untracked files --> not version
+untracked files --> not version controlled
+git add xxxx.py #for version control on file
+
+-------------------
+git commit -m "MESSAGE HERE" #"this is the message to display in git log
+
+git log or gitk to see logs
+
+-----------------------
+WHEN WE CHANGE A DOCUMENT
+
+do git addd
 """
-print("HelloWorld")
+
+
+print("Run2")
+
+"""
+git status # see if files has been modified before commit
+git diff # display what's different between modified file and old commit
+
+why 2 step process?
+
+"""
+
+print("Run3")
